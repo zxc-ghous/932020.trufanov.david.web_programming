@@ -1,0 +1,19 @@
+div {
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.5em;
+}
+
+.greenBlock {
+    width: 26%;
+    background-color: #008000;
+
+}
+
+.blueBlock {
+    width: 32%;
+    background-color: blue;
+    padding: 3em;
+    box-sizing: border-box;
+}

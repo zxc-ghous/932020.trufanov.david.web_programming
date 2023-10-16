@@ -1,0 +1,47 @@
+div {
+    height: 100px;
+    width: 150px;
+    color: white;
+}
+
+#firstBlock {
+    background-color: blueviolet;
+    position: static;
+}
+
+#secondBlock {
+    background-color: darkred;
+    position: relative;
+}
+
+#thirdBlock {
+    background-color: peru;
+    position: relative;
+    bottom: 2em;
+    left: 2em;
+}
+
+#fourthBlock {
+    width: 600px;
+    height: 400px;
+    background-color: indianred;
+    position: relative;
+}
+
+#fifthBlock {
+    background-color: indigo;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+    bottom: 20%;
+    right: 0%;
+}
+
+#sixthBlock {
+    background: #228B22;
+    position: fixed;
+    width: 97px;
+    height: 100px;
+    bottom: 0px;
+    right: 0px;
+}

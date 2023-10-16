@@ -1,0 +1,38 @@
+.wrapper {
+    position: relative;
+    border: solid green 1px;
+    background-color: aqua;
+}
+
+.menu {
+    background-color: bisque;
+    width: 476px;
+    height: 85px;
+    position: absolute;
+}
+
+.content {
+    background-color: darkgray;
+    margin: 0 5px 0 480px;
+}
+
+/*Для телефонов*/
+@media (max-width:600px) {
+    .wrapper {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .menu {
+        width: 120px;
+        height: 85px;
+        position: static;
+    }
+    
+    .content {
+        background-color: darkgray;
+        margin: 0;
+        width: 75%;
+    }
+}

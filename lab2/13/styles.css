@@ -1,0 +1,26 @@
+.wrapper {
+    position: relative;
+    background-color: aqua;
+    border: solid green 1px;
+}
+
+.menu {
+    background-color: bisque;
+    position: absolute;
+    height: 85px;
+    width: 25%;
+}
+
+.content {
+    background-color: darkgray;
+    margin-left: 25%;
+}
+
+img {
+    float: right;
+    width: 50%
+}
+
+.text2 {
+    clear: both;
+}

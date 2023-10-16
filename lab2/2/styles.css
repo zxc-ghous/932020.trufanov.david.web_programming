@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    line-height: 1.5em;
+}
+
+header {
+    background-color: #EAEAEA;
+    height: 5em;
+    line-height: 1.5em;
+    padding: 10px 0 0 10px;
+}
+
+.leftColumn {
+    width: 25%;
+    background-color: #C8FC98;
+    float: left;
+    padding: 0 0 10px 10px;
+    box-sizing: border-box;
+}
+
+.rightColumn {
+    width: 190px;
+    padding: 0 10px 10px 10px;
+    float: right;
+    background: #FDE95E;
+}
+
+.contentColumn {
+    margin: 0 200px 0 25%;
+    padding: 0 1em 0 0.5em;
+}
+
+footer {
+    background-color: black;
+    font-size: 16px;
+    clear: both;
+    line-height: 1.5em;
+    text-align: center;
+    padding: 0 0 5px 0;
+}
+
+.accent {
+	font-weight: bold;
+    font-size: 18px;
+}
+
+.accent i {
+    color: red;
+}
+
+a {
+    color: #FFFF80;
+}

@@ -1,0 +1,11 @@
+div {
+    width: 26%;
+    margin: auto;
+    font-size: 16px;
+}
+
+.accentText {
+    border: blue solid 0.7em;
+    padding: 3em;
+    position: relative;
+}
