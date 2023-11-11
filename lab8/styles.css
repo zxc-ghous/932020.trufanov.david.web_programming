@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+}
+
+.row {
+    height: 20px;
+}
+
+input {
+    border: 1px solid gray;
+    float: left;
+}
+
+.textButton {
+    float: none;
+}
