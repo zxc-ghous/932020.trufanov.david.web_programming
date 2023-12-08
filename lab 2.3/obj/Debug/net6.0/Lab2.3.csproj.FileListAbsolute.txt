@@ -1,0 +1,77 @@
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\bin\Debug\net6.0\appsettings.Development.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\bin\Debug\net6.0\appsettings.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\bin\Debug\net6.0\Lab2.3.staticwebassets.runtime.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\bin\Debug\net6.0\Lab2.3.exe
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\bin\Debug\net6.0\Lab2.3.deps.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\bin\Debug\net6.0\Lab2.3.runtimeconfig.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\bin\Debug\net6.0\Lab2.3.dll
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\bin\Debug\net6.0\Lab2.3.pdb
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Lab2.3.csproj.AssemblyReference.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Lab2.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Lab2.3.AssemblyInfoInputs.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Lab2.3.AssemblyInfo.cs
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Lab2.3.csproj.CoreCompileInputs.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Lab2.3.MvcApplicationPartsAssemblyInfo.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Lab2.3.RazorAssemblyInfo.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Lab2.3.RazorAssemblyInfo.cs
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\scopedcss\bundle\Lab2.3.styles.css
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Lab2.3.dll
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\refint\Lab2.3.dll
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Lab2.3.pdb
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\Lab2.3.genruntimeconfig.cache
+C:\Dima\ВУЗ\3 курс\Web-программирование\Web - Лабораторная работа №2.3\Lab2.3\obj\Debug\net6.0\ref\Lab2.3.dll
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\bin\Debug\net6.0\appsettings.json
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\bin\Debug\net6.0\Lab2.3.staticwebassets.runtime.json
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\bin\Debug\net6.0\Lab2.3.exe
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\bin\Debug\net6.0\Lab2.3.deps.json
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\bin\Debug\net6.0\Lab2.3.runtimeconfig.json
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\bin\Debug\net6.0\Lab2.3.dll
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\bin\Debug\net6.0\Lab2.3.pdb
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\obj\Debug\net6.0\Lab2.3.csproj.AssemblyReference.cache
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\obj\Debug\net6.0\Lab2.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\obj\Debug\net6.0\Lab2.3.AssemblyInfoInputs.cache
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\obj\Debug\net6.0\Lab2.3.AssemblyInfo.cs
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\obj\Debug\net6.0\Lab2.3.csproj.CoreCompileInputs.cache
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\obj\Debug\net6.0\Lab2.3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\obj\Debug\net6.0\Lab2.3.RazorAssemblyInfo.cache
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\obj\Debug\net6.0\Lab2.3.RazorAssemblyInfo.cs
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\obj\Debug\net6.0\scopedcss\bundle\Lab2.3.styles.css
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\obj\Debug\net6.0\Lab2.3.dll
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\obj\Debug\net6.0\refint\Lab2.3.dll
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\obj\Debug\net6.0\Lab2.3.pdb
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\obj\Debug\net6.0\Lab2.3.genruntimeconfig.cache
+C:\Users\msi\Documents\GitHub\932003.Frantsuzov.Dmitry.Web-programming\Lab 2.3\obj\Debug\net6.0\ref\Lab2.3.dll
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\bin\Debug\net6.0\appsettings.json
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\bin\Debug\net6.0\Lab2.3.staticwebassets.runtime.json
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\bin\Debug\net6.0\Lab2.3.exe
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\bin\Debug\net6.0\Lab2.3.deps.json
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\bin\Debug\net6.0\Lab2.3.runtimeconfig.json
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\bin\Debug\net6.0\Lab2.3.dll
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\bin\Debug\net6.0\Lab2.3.pdb
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\Lab2.3.csproj.AssemblyReference.cache
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\Lab2.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\Lab2.3.AssemblyInfoInputs.cache
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\Lab2.3.AssemblyInfo.cs
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\Lab2.3.csproj.CoreCompileInputs.cache
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\Lab2.3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\Lab2.3.RazorAssemblyInfo.cache
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\Lab2.3.RazorAssemblyInfo.cs
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\staticwebassets\msbuild.Lab2.3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\staticwebassets\msbuild.build.Lab2.3.props
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Lab2.3.props
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Lab2.3.props
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\scopedcss\bundle\Lab2.3.styles.css
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\Lab2.3.dll
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\refint\Lab2.3.dll
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\Lab2.3.pdb
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\Lab2.3.genruntimeconfig.cache
+C:\Users\sskil\Desktop\учеба\4курс\932020.trufanov.david.web_programming\lab 2.3\obj\Debug\net6.0\ref\Lab2.3.dll
